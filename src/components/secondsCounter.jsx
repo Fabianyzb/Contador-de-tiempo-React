@@ -29,6 +29,7 @@ const SecondsCounter = (props) => {
   );
 };
 
+//DEFINIR Y VALIDAR LAS PROPIEDADESS (PROPS)  PARA SecondsCounter!!!!!!!!
 SecondsCounter.propTypes = {
   seconds: PropTypes.number.isRequired,
 };
